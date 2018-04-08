@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qbeat-api" />
+        <module name="qbeat-consumer" />
+        <module name="qbeat-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qbeat-api" target="1.8" />
+      <module name="qbeat-consumer" target="1.7" />
+      <module name="qbeat-dubbo" target="1.8" />
+      <module name="qbeat-server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

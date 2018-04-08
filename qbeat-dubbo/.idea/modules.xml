@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qbeat-api/qbeat-api.iml" filepath="$PROJECT_DIR$/qbeat-api/qbeat-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbeat-consumer/qbeat-consumer.iml" filepath="$PROJECT_DIR$/qbeat-consumer/qbeat-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbeat-dubbo.iml" filepath="$PROJECT_DIR$/qbeat-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbeat-server/qbeat-server.iml" filepath="$PROJECT_DIR$/qbeat-server/qbeat-server.iml" />
+    </modules>
+  </component>
+</project>
